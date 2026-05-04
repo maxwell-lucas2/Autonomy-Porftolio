@@ -1,2 +1,2 @@
 # Autonomy-Portfolio
-PDF of Autonomy Portfolio Featuring four Robotics/Control Systems Projects
+PDF of autonomy portfolio featuring four robotics/control systems projects.
